@@ -1,0 +1,27 @@
+{
+  "stage": "seg",
+  "group": {
+    "task": "pipe",
+    "name": "P11",
+    "width": 128
+  },
+  "seed": 42,
+  "fold": 1,
+  "stereo": null,
+  "stereo_splits": null,
+  "semantic_signature": "f6554d20612658a77e77ee04063da4d5c16637f39bb0beb798d36e9b58443d9b",
+  "stereo_signature": null,
+  "epochs": 60,
+  "steps": 0,
+  "batch": 2,
+  "effective_batch": 8,
+  "lr": 0.0001,
+  "min_lr": 1e-06,
+  "depth_weight": 1.0,
+  "device": "cuda:0",
+  "initial_sha256": "7f5810bc96def8f7552d5b7e68d53c4786f81167d28291b21c0d90e1fca14934",
+  "parent_sha256": null,
+  "code_sha256": "5b2e61efed97e783caf82959d12c83c9e101062096b7c67ef36927f59540f34b",
+  "torch": "2.8.0+cu128",
+  "platform": "Linux-5.15.0-78-generic-x86_64-with-glibc2.35"
+}

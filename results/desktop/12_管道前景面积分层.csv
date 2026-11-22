@@ -1,0 +1,5 @@
+﻿stratum,unique_frames,min_pipe_area_pct,max_pipe_area_pct,p8_pixel_iou_pct,unet_pixel_iou_pct,delta_p8_minus_unet_pp,p8_empty_frame_fp_pct,unet_empty_frame_fp_pct
+空标注,18,0.000000,0.000000,,,,57.407407,27.777778
+小,210,0.505914,14.550103,46.593135,51.542636,-4.949502,,
+中,209,14.581977,19.965278,69.992587,77.701232,-7.708645,,
+大,210,19.966634,35.429552,70.547220,77.491144,-6.943924,,

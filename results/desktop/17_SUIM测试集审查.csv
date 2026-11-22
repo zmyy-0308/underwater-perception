@@ -1,0 +1,10 @@
+﻿item,count,test_id,matched_id,matched_split
+released_pairs,108,,,
+clean_pairs,104,,,
+missing_test_image,,d_r_58_,,
+missing_test_image,,f_r_13_,,
+development_overlap,,d_r_386_,n_l_106_,train
+development_overlap,,n_l_0_,f_r_1500_,val
+development_overlap,,n_l_29_,d_r_587_,train
+development_overlap,,n_l_87_,w_r_11_,train
+within_test_duplicate_groups,0,,,

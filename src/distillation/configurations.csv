@@ -1,0 +1,25 @@
+﻿recipe,temperature,logit,feature,scales,region,teacher,student,feature_weight,student_width,input_height,input_width,epochs
+supervised,4,0,,"(4,)",uniform,attention,haar,0,64,288,512,60
+pixel_kl,4,0.5,,"(4,)",uniform,attention,haar,0,64,288,512,60
+pixel_kl_temp2,2,0.5,,"(4,)",uniform,attention,haar,0,64,288,512,60
+pixel_kl_temp6,6,0.5,,"(4,)",uniform,attention,haar,0,64,288,512,60
+pixel_kl_weight025,4,0.25,,"(4,)",uniform,attention,haar,0,64,288,512,60
+pixel_kl_weight1,4,1,,"(4,)",uniform,attention,haar,0,64,288,512,60
+feature_mse_quarter,4,0,mse,"(4,)",uniform,attention,haar,0.1,64,288,512,60
+feature_cwd_quarter,4,0,cwd,"(4,)",uniform,attention,haar,0.1,64,288,512,60
+feature_cwd_eighth,4,0,cwd,"(8,)",uniform,attention,haar,0.1,64,288,512,60
+feature_cwd_multiscale,4,0,cwd,"(4, 8)",uniform,attention,haar,0.1,64,288,512,60
+pixel_kl_feature_mse,4,0.5,mse,"(4,)",uniform,attention,haar,0.1,64,288,512,60
+pixel_kl_feature_cwd,4,0.5,cwd,"(4,)",uniform,attention,haar,0.1,64,288,512,60
+pixel_kl_feature_cwd_multiscale,4,0.5,cwd,"(4, 8)",uniform,attention,haar,0.1,64,288,512,60
+edge_kl_feature_cwd,4,0.5,cwd,"(4,)",edge2,attention,haar,0.1,64,288,512,60
+edge_kl_narrow,4,0.5,,"(4,)",edge2,attention,haar,0,64,288,512,60
+edge_kl_wide,4,0.5,,"(4,)",edge5,attention,haar,0,64,288,512,60
+balanced_kl,4,0.5,,"(4,)",balanced,attention,haar,0,64,288,512,60
+teacher_correct_kl,4,0.5,,"(4,)",correct,attention,haar,0,64,288,512,60
+tailor_features,4,0,pca,"(4,)",uniform,attention,haar,0.1,64,288,512,60
+tailor_logits,4,0.5,,"(4,)",tailor,attention,haar,0,64,288,512,60
+tailor_joint,4,0.5,pca,"(4,)",tailor,attention,haar,0.1,64,288,512,60
+plain_teacher_kl,4,0.5,,"(4,)",uniform,plain,haar,0,64,288,512,60
+gray_supervised,4,0,,"(4,)",uniform,attention,gray,0,64,288,512,60
+gray_dual,4,0.5,cwd,"(4,)",uniform,attention,gray,0.1,64,288,512,60

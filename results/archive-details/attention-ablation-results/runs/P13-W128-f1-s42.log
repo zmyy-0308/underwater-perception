@@ -1,0 +1,65 @@
+Using verified pipe cache /root/autodl-tmp/subpipe-attention-halfwidth/pipe-cache
+{'epoch': 1, 'seg_loss': 0.8496112035354599, 'depth_loss': None, 'lr': 0.0001, 'seconds': 18.231126466766, 'peak_cuda_bytes': 426423296}
+{'epoch': 2, 'seg_loss': 0.640544583555311, 'depth_loss': None, 'lr': 9.99321619703514e-05, 'seconds': 14.30572390370071, 'peak_cuda_bytes': 425358336}
+{'epoch': 3, 'seg_loss': 0.5538033721968532, 'depth_loss': None, 'lr': 9.972883382072952e-05, 'seconds': 14.032127601094544, 'peak_cuda_bytes': 425358336}
+{'epoch': 4, 'seg_loss': 0.49123186396900564, 'depth_loss': None, 'lr': 9.939057285945931e-05, 'seconds': 14.19809088576585, 'peak_cuda_bytes': 425358336}
+{'epoch': 5, 'seg_loss': 0.45509299455443397, 'depth_loss': None, 'lr': 9.891830623632337e-05, 'seconds': 13.067077421583235, 'peak_cuda_bytes': 425358336}
+Using verified pipe cache /root/autodl-tmp/subpipe-attention-halfwidth/pipe-cache
+{'epoch': 6, 'seg_loss': 0.4112034580321051, 'depth_loss': None, 'lr': 9.831332840130886e-05, 'seconds': 20.072672980837524, 'peak_cuda_bytes': 427717632}
+{'epoch': 7, 'seg_loss': 0.38914816558826715, 'depth_loss': None, 'lr': 9.75772975566101e-05, 'seconds': 15.716423191130161, 'peak_cuda_bytes': 427717632}
+{'epoch': 8, 'seg_loss': 0.38646051730029285, 'depth_loss': None, 'lr': 9.671223111161148e-05, 'seconds': 15.62621539272368, 'peak_cuda_bytes': 427717632}
+Using verified pipe cache /root/autodl-tmp/subpipe-attention-halfwidth/pipe-cache
+{'epoch': 9, 'seg_loss': 0.36000437632901594, 'depth_loss': None, 'lr': 9.572050015330873e-05, 'seconds': 22.598649204708636, 'peak_cuda_bytes': 427717632}
+{'epoch': 10, 'seg_loss': 0.34679241699632257, 'depth_loss': None, 'lr': 9.46048229473242e-05, 'seconds': 18.47396037261933, 'peak_cuda_bytes': 427717632}
+{'epoch': 11, 'seg_loss': 0.3300968428957276, 'depth_loss': None, 'lr': 9.336825748732971e-05, 'seconds': 18.624725956469774, 'peak_cuda_bytes': 427717632}
+Using verified pipe cache /root/autodl-tmp/subpipe-attention-halfwidth/pipe-cache
+{'epoch': 12, 'seg_loss': 0.32742915087146685, 'depth_loss': None, 'lr': 9.201419311329847e-05, 'seconds': 27.301475658081472, 'peak_cuda_bytes': 427717632}
+{'epoch': 13, 'seg_loss': 0.32388690672814846, 'depth_loss': None, 'lr': 9.054634122155987e-05, 'seconds': 23.532387660816312, 'peak_cuda_bytes': 427717632}
+{'epoch': 14, 'seg_loss': 0.31546394515316933, 'depth_loss': None, 'lr': 8.896872509212005e-05, 'seconds': 23.608288182877004, 'peak_cuda_bytes': 427717632}
+{'epoch': 15, 'seg_loss': 0.3071969943703152, 'depth_loss': None, 'lr': 8.7285668861131e-05, 'seconds': 23.53744690772146, 'peak_cuda_bytes': 427717632}
+{'epoch': 16, 'seg_loss': 0.2964731809333898, 'depth_loss': None, 'lr': 8.550178566873408e-05, 'seconds': 23.565703657455742, 'peak_cuda_bytes': 427717632}
+{'epoch': 17, 'seg_loss': 0.29268305556615815, 'depth_loss': None, 'lr': 8.362196501476347e-05, 'seconds': 23.453465580940247, 'peak_cuda_bytes': 427717632}
+{'epoch': 18, 'seg_loss': 0.29415946328663267, 'depth_loss': None, 'lr': 8.165135935696695e-05, 'seconds': 23.55462512280792, 'peak_cuda_bytes': 427717632}
+{'epoch': 19, 'seg_loss': 0.27904039635905065, 'depth_loss': None, 'lr': 7.959536998847741e-05, 'seconds': 23.598688445053995, 'peak_cuda_bytes': 427717632}
+{'epoch': 20, 'seg_loss': 0.2794416978722438, 'depth_loss': None, 'lr': 7.745963223324383e-05, 'seconds': 23.50177126005292, 'peak_cuda_bytes': 427717632}
+{'epoch': 21, 'seg_loss': 0.2572165106830653, 'depth_loss': None, 'lr': 7.524999999999999e-05, 'seconds': 23.527779867872596, 'peak_cuda_bytes': 427717632}
+{'epoch': 22, 'seg_loss': 0.2651648847677279, 'depth_loss': None, 'lr': 7.297252973710755e-05, 'seconds': 23.58023652434349, 'peak_cuda_bytes': 427717632}
+{'epoch': 23, 'seg_loss': 0.2652877493528649, 'depth_loss': None, 'lr': 7.06334638322521e-05, 'seconds': 23.521429365500808, 'peak_cuda_bytes': 427717632}
+{'epoch': 24, 'seg_loss': 0.25181009553489275, 'depth_loss': None, 'lr': 6.823921350249236e-05, 'seconds': 23.51074715796858, 'peak_cuda_bytes': 427717632}
+{'epoch': 25, 'seg_loss': 0.25435838114935905, 'depth_loss': None, 'lr': 6.579634122155988e-05, 'seconds': 23.564038053154945, 'peak_cuda_bytes': 427717632}
+{'epoch': 26, 'seg_loss': 0.2445137666654773, 'depth_loss': None, 'lr': 6.331154273257476e-05, 'seconds': 23.438131486065686, 'peak_cuda_bytes': 427717632}
+{'epoch': 27, 'seg_loss': 0.24705201978213154, 'depth_loss': None, 'lr': 6.079162869547906e-05, 'seconds': 23.48505227919668, 'peak_cuda_bytes': 427717632}
+{'epoch': 28, 'seg_loss': 0.24099238732014783, 'depth_loss': None, 'lr': 5.824350601949141e-05, 'seconds': 23.4644891647622, 'peak_cuda_bytes': 427717632}
+{'epoch': 29, 'seg_loss': 0.242933511355659, 'depth_loss': None, 'lr': 5.567415893174883e-05, 'seconds': 23.493716892786324, 'peak_cuda_bytes': 427717632}
+{'epoch': 30, 'seg_loss': 0.23594342879368924, 'depth_loss': None, 'lr': 5.3090629834025695e-05, 'seconds': 23.501959034241736, 'peak_cuda_bytes': 427717632}
+{'epoch': 31, 'seg_loss': 0.2268683482252527, 'depth_loss': None, 'lr': 5.0499999999999994e-05, 'seconds': 23.465115344151855, 'peak_cuda_bytes': 427717632}
+{'epoch': 32, 'seg_loss': 0.230012485262705, 'depth_loss': None, 'lr': 4.7909370165974273e-05, 'seconds': 23.517974911257625, 'peak_cuda_bytes': 427717632}
+{'epoch': 33, 'seg_loss': 0.21859294991008937, 'depth_loss': None, 'lr': 4.532584106825115e-05, 'seconds': 23.49657326284796, 'peak_cuda_bytes': 427717632}
+{'epoch': 34, 'seg_loss': 0.21963483837316744, 'depth_loss': None, 'lr': 4.275649398050856e-05, 'seconds': 23.490677799098194, 'peak_cuda_bytes': 427717632}
+{'epoch': 35, 'seg_loss': 0.22434389052796178, 'depth_loss': None, 'lr': 4.02083713045209e-05, 'seconds': 23.469218858517706, 'peak_cuda_bytes': 427717632}
+{'epoch': 36, 'seg_loss': 0.21877561169094406, 'depth_loss': None, 'lr': 3.768845726742522e-05, 'seconds': 23.510836825706065, 'peak_cuda_bytes': 427717632}
+{'epoch': 37, 'seg_loss': 0.2178315182973165, 'depth_loss': None, 'lr': 3.52036587784401e-05, 'seconds': 23.552238818258047, 'peak_cuda_bytes': 427717632}
+{'epoch': 38, 'seg_loss': 0.2122644927003421, 'depth_loss': None, 'lr': 3.276078649750763e-05, 'seconds': 23.46125473920256, 'peak_cuda_bytes': 427717632}
+{'epoch': 39, 'seg_loss': 0.2094518238445744, 'depth_loss': None, 'lr': 3.0366536167747892e-05, 'seconds': 23.53151861950755, 'peak_cuda_bytes': 427717632}
+{'epoch': 40, 'seg_loss': 0.2003344800323248, 'depth_loss': None, 'lr': 2.802747026289243e-05, 'seconds': 23.493958877399564, 'peak_cuda_bytes': 427717632}
+{'epoch': 41, 'seg_loss': 0.19984951851074584, 'depth_loss': None, 'lr': 2.5750000000000006e-05, 'seconds': 23.571634865365922, 'peak_cuda_bytes': 427717632}
+{'epoch': 42, 'seg_loss': 0.20711676706559956, 'depth_loss': None, 'lr': 2.354036776675617e-05, 'seconds': 23.526631492190063, 'peak_cuda_bytes': 427717632}
+{'epoch': 43, 'seg_loss': 0.19896620928193443, 'depth_loss': None, 'lr': 2.1404630011522583e-05, 'seconds': 23.63920010905713, 'peak_cuda_bytes': 427717632}
+{'epoch': 44, 'seg_loss': 0.1981070388283115, 'depth_loss': None, 'lr': 1.9348640643033054e-05, 'seconds': 23.531624373048544, 'peak_cuda_bytes': 427717632}
+{'epoch': 45, 'seg_loss': 0.19703185826074332, 'depth_loss': None, 'lr': 1.7378034985236535e-05, 'seconds': 23.496010937727988, 'peak_cuda_bytes': 427717632}
+{'epoch': 46, 'seg_loss': 0.19943231681827456, 'depth_loss': None, 'lr': 1.54982143312659e-05, 'seconds': 23.525541982613504, 'peak_cuda_bytes': 427717632}
+{'epoch': 47, 'seg_loss': 0.1922558440710418, 'depth_loss': None, 'lr': 1.3714331138868995e-05, 'seconds': 23.527963715605438, 'peak_cuda_bytes': 427717632}
+{'epoch': 48, 'seg_loss': 0.19336204626597464, 'depth_loss': None, 'lr': 1.203127490787994e-05, 'seconds': 23.53990221489221, 'peak_cuda_bytes': 427717632}
+{'epoch': 49, 'seg_loss': 0.19555888272589073, 'depth_loss': None, 'lr': 1.0453658778440105e-05, 'seconds': 23.509880922734737, 'peak_cuda_bytes': 427717632}
+{'epoch': 50, 'seg_loss': 0.19328726129606366, 'depth_loss': None, 'lr': 8.985806886701514e-06, 'seconds': 23.45940836891532, 'peak_cuda_bytes': 427717632}
+{'epoch': 51, 'seg_loss': 0.19754792528692633, 'depth_loss': None, 'lr': 7.631742512670283e-06, 'seconds': 23.511335568502545, 'peak_cuda_bytes': 427717632}
+{'epoch': 52, 'seg_loss': 0.18715143745066598, 'depth_loss': None, 'lr': 6.395177052675794e-06, 'seconds': 23.515420391224325, 'peak_cuda_bytes': 427717632}
+{'epoch': 53, 'seg_loss': 0.19150729951797985, 'depth_loss': None, 'lr': 5.2794998466912506e-06, 'seconds': 23.5130450213328, 'peak_cuda_bytes': 427717632}
+{'epoch': 54, 'seg_loss': 0.19280742379487492, 'depth_loss': None, 'lr': 4.2877688883885125e-06, 'seconds': 23.482265525497496, 'peak_cuda_bytes': 427717632}
+{'epoch': 55, 'seg_loss': 0.1869500741304364, 'depth_loss': None, 'lr': 3.4227024433898994e-06, 'seconds': 23.481523700989783, 'peak_cuda_bytes': 427717632}
+{'epoch': 56, 'seg_loss': 0.18273381372273434, 'depth_loss': None, 'lr': 2.686671598691118e-06, 'seconds': 23.498341539874673, 'peak_cuda_bytes': 427717632}
+{'epoch': 57, 'seg_loss': 0.18110815464751795, 'depth_loss': None, 'lr': 2.0816937636766182e-06, 'seconds': 23.480717407539487, 'peak_cuda_bytes': 427717632}
+{'epoch': 58, 'seg_loss': 0.19074789321166463, 'depth_loss': None, 'lr': 1.6094271405406857e-06, 'seconds': 22.973257976584136, 'peak_cuda_bytes': 427717632}
+{'epoch': 59, 'seg_loss': 0.18221225426532328, 'depth_loss': None, 'lr': 1.2711661792704665e-06, 'seconds': 21.624733383767307, 'peak_cuda_bytes': 427717632}
+{'epoch': 60, 'seg_loss': 0.19036482035880908, 'depth_loss': None, 'lr': 1.0678380296485951e-06, 'seconds': 20.484595723450184, 'peak_cuda_bytes': 427717632}
+{'semantic': {'per_class': {'background': {'iou': 0.9413180058405847, 'dice': 0.9697720857773602, 'precision': 0.9829397213085528, 'recall': 0.9569525786367307}, 'pipe': {'iou': 0.7308439577022514, 'dice': 0.8444943340501581, 'precision': 0.7900475563748003, 'recall': 0.907001058601785}}, 'primary_iou': 0.7308439577022514, 'miou': 0.8360809817714181, 'boundary_f1': 0.3364037447335494, 'images': 130, 'signature': 'b919c50186a4ff99b06facbe14d938e394d386b235bd5d3aa19906041e6019b2'}}

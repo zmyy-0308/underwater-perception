@@ -1,0 +1,98 @@
+{
+  "feature_cwd_quarter": {
+    "mean_iou_pct": 65.24838955233663,
+    "worst_iou_pct": 54.48383063454729
+  },
+  "tailor_joint": {
+    "mean_iou_pct": 65.17759388480515,
+    "worst_iou_pct": 54.4269124264918
+  },
+  "pixel_kl_feature_mse": {
+    "mean_iou_pct": 64.9185338551499,
+    "worst_iou_pct": 53.333646083120755
+  },
+  "gray_supervised": {
+    "mean_iou_pct": 66.1198610129262,
+    "worst_iou_pct": 58.48762135781214
+  },
+  "pixel_kl_weight025": {
+    "mean_iou_pct": 65.23445609634445,
+    "worst_iou_pct": 54.32593832889826
+  },
+  "tailor_features": {
+    "mean_iou_pct": 65.1424934936908,
+    "worst_iou_pct": 54.0731198168489
+  },
+  "edge_kl_narrow": {
+    "mean_iou_pct": 65.22182129084251,
+    "worst_iou_pct": 54.77956292250518
+  },
+  "tailor_logits": {
+    "mean_iou_pct": 65.05984796572422,
+    "worst_iou_pct": 53.89699081310787
+  },
+  "plain_teacher_kl": {
+    "mean_iou_pct": 65.22200396463285,
+    "worst_iou_pct": 54.628965818598
+  },
+  "pixel_kl_feature_cwd": {
+    "mean_iou_pct": 64.93959882175643,
+    "worst_iou_pct": 53.56555179668342
+  },
+  "pixel_kl_temp2": {
+    "mean_iou_pct": 65.51510084068123,
+    "worst_iou_pct": 54.775308539259505
+  },
+  "edge_kl_wide": {
+    "mean_iou_pct": 65.12405036043623,
+    "worst_iou_pct": 54.61512862794813
+  },
+  "feature_cwd_multiscale": {
+    "mean_iou_pct": 65.52066693938949,
+    "worst_iou_pct": 55.406381986564156
+  },
+  "feature_mse_quarter": {
+    "mean_iou_pct": 65.08071245739745,
+    "worst_iou_pct": 54.09825585590173
+  },
+  "pixel_kl_weight1": {
+    "mean_iou_pct": 65.01556998927015,
+    "worst_iou_pct": 54.2219885912185
+  },
+  "pixel_kl_temp6": {
+    "mean_iou_pct": 65.15154296474796,
+    "worst_iou_pct": 54.319559436267916
+  },
+  "balanced_kl": {
+    "mean_iou_pct": 65.54315746568423,
+    "worst_iou_pct": 54.61196933712201
+  },
+  "gray_dual": {
+    "mean_iou_pct": 66.05230396128188,
+    "worst_iou_pct": 57.160783751790845
+  },
+  "teacher_correct_kl": {
+    "mean_iou_pct": 65.1507393374377,
+    "worst_iou_pct": 54.539100467591794
+  },
+  "feature_cwd_eighth": {
+    "mean_iou_pct": 65.27828455617622,
+    "worst_iou_pct": 54.33292679006774
+  },
+  "pixel_kl": {
+    "mean_iou_pct": 64.9523894935906,
+    "worst_iou_pct": 53.20591244365097
+  },
+  "supervised": {
+    "mean_iou_pct": 65.28505895465102,
+    "worst_iou_pct": 54.921590267709334
+  },
+  "edge_kl_feature_cwd": {
+    "mean_iou_pct": 65.04018523605491,
+    "worst_iou_pct": 54.25782315607526
+  },
+  "pixel_kl_feature_cwd_multiscale": {
+    "mean_iou_pct": 65.00753029482101,
+    "worst_iou_pct": 53.52221369280742
+  }
+}

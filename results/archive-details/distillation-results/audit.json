@@ -1,0 +1,162 @@
+[
+  {
+    "role": "plain",
+    "fold": 0,
+    "iou": 0.6188187109734008,
+    "retested_iou": 0.6188187109734008,
+    "absolute_error": 0.0,
+    "images": 129
+  },
+  {
+    "role": "plain",
+    "fold": 1,
+    "iou": 0.7543660249508646,
+    "retested_iou": 0.7543660249508646,
+    "absolute_error": 0.0,
+    "images": 130
+  },
+  {
+    "role": "plain",
+    "fold": 2,
+    "iou": 0.7255419761183941,
+    "retested_iou": 0.7255419761183941,
+    "absolute_error": 0.0,
+    "images": 129
+  },
+  {
+    "role": "plain",
+    "fold": 3,
+    "iou": 0.6965803022443975,
+    "retested_iou": 0.6965803022443975,
+    "absolute_error": 0.0,
+    "images": 130
+  },
+  {
+    "role": "plain",
+    "fold": 4,
+    "iou": 0.6672068772039248,
+    "retested_iou": 0.6672068772039248,
+    "absolute_error": 0.0,
+    "images": 129
+  },
+  {
+    "role": "teacher",
+    "fold": 0,
+    "iou": 0.6327056250759324,
+    "retested_iou": 0.6327056250759324,
+    "absolute_error": 0.0,
+    "images": 129
+  },
+  {
+    "role": "teacher",
+    "fold": 1,
+    "iou": 0.7600886734960958,
+    "retested_iou": 0.7600886734960958,
+    "absolute_error": 0.0,
+    "images": 130
+  },
+  {
+    "role": "teacher",
+    "fold": 2,
+    "iou": 0.7277069057096205,
+    "retested_iou": 0.7277069057096205,
+    "absolute_error": 0.0,
+    "images": 129
+  },
+  {
+    "role": "teacher",
+    "fold": 3,
+    "iou": 0.7484650036306357,
+    "retested_iou": 0.7484650036306357,
+    "absolute_error": 0.0,
+    "images": 130
+  },
+  {
+    "role": "teacher",
+    "fold": 4,
+    "iou": 0.6750010323982453,
+    "retested_iou": 0.6750010323982453,
+    "absolute_error": 0.0,
+    "images": 129
+  },
+  {
+    "role": "student",
+    "fold": 0,
+    "iou": 0.622092549459588,
+    "retested_iou": 0.622092549459588,
+    "absolute_error": 0.0,
+    "images": 129
+  },
+  {
+    "role": "student",
+    "fold": 1,
+    "iou": 0.7176246349168096,
+    "retested_iou": 0.7176246349168096,
+    "absolute_error": 0.0,
+    "images": 130
+  },
+  {
+    "role": "student",
+    "fold": 2,
+    "iou": 0.6430724253450288,
+    "retested_iou": 0.6430724253450288,
+    "absolute_error": 0.0,
+    "images": 129
+  },
+  {
+    "role": "student",
+    "fold": 3,
+    "iou": 0.6893733992245801,
+    "retested_iou": 0.6893733992245801,
+    "absolute_error": 0.0,
+    "images": 130
+  },
+  {
+    "role": "student",
+    "fold": 4,
+    "iou": 0.5274244981755833,
+    "retested_iou": 0.5274244981755833,
+    "absolute_error": 0.0,
+    "images": 129
+  },
+  {
+    "role": "gray",
+    "fold": 0,
+    "iou": 0.6234271037984335,
+    "retested_iou": 0.6234271037984335,
+    "absolute_error": 0.0,
+    "images": 129
+  },
+  {
+    "role": "gray",
+    "fold": 1,
+    "iou": 0.7188944693103112,
+    "retested_iou": 0.7188944693103112,
+    "absolute_error": 0.0,
+    "images": 130
+  },
+  {
+    "role": "gray",
+    "fold": 2,
+    "iou": 0.6381618848166445,
+    "retested_iou": 0.6381618848166445,
+    "absolute_error": 0.0,
+    "images": 129
+  },
+  {
+    "role": "gray",
+    "fold": 3,
+    "iou": 0.6818134843120174,
+    "retested_iou": 0.6818134843120174,
+    "absolute_error": 0.0,
+    "images": 130
+  },
+  {
+    "role": "gray",
+    "fold": 4,
+    "iou": 0.5420663840635822,
+    "retested_iou": 0.5420663840635822,
+    "absolute_error": 0.0,
+    "images": 129
+  }
+]

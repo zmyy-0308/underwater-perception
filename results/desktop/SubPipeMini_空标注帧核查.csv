@@ -1,0 +1,11 @@
+﻿fold,split,frames,background_only
+0,test,129,16
+0,train,515,2
+1,test,130,0
+1,train,512,18
+2,test,129,0
+2,train,513,18
+3,test,130,0
+3,train,511,18
+4,test,129,2
+4,train,516,16

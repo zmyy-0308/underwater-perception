@@ -1,0 +1,65 @@
+Using verified pipe cache /root/autodl-tmp/subpipe-attention-halfwidth/pipe-cache
+{'epoch': 1, 'seg_loss': 1.1119046206586063, 'depth_loss': None, 'lr': 0.0001, 'seconds': 22.266577736474574, 'peak_cuda_bytes': 411227136}
+{'epoch': 2, 'seg_loss': 0.7748544467613101, 'depth_loss': None, 'lr': 9.99321619703514e-05, 'seconds': 14.41513167321682, 'peak_cuda_bytes': 411227136}
+{'epoch': 3, 'seg_loss': 0.6200382926035672, 'depth_loss': None, 'lr': 9.972883382072952e-05, 'seconds': 14.467014012858272, 'peak_cuda_bytes': 411227136}
+{'epoch': 4, 'seg_loss': 0.5361827195156366, 'depth_loss': None, 'lr': 9.939057285945931e-05, 'seconds': 14.582667337730527, 'peak_cuda_bytes': 411227136}
+{'epoch': 5, 'seg_loss': 0.4864358255872503, 'depth_loss': None, 'lr': 9.891830623632337e-05, 'seconds': 14.563774428330362, 'peak_cuda_bytes': 411227136}
+Using verified pipe cache /root/autodl-tmp/subpipe-attention-halfwidth/pipe-cache
+{'epoch': 6, 'seg_loss': 0.43708250584313646, 'depth_loss': None, 'lr': 9.831332840130886e-05, 'seconds': 24.247262069955468, 'peak_cuda_bytes': 411341824}
+{'epoch': 7, 'seg_loss': 0.41343970847083256, 'depth_loss': None, 'lr': 9.75772975566101e-05, 'seconds': 16.009699059650302, 'peak_cuda_bytes': 411227136}
+{'epoch': 8, 'seg_loss': 0.40106207790086046, 'depth_loss': None, 'lr': 9.671223111161148e-05, 'seconds': 15.573338309302926, 'peak_cuda_bytes': 411227136}
+Using verified pipe cache /root/autodl-tmp/subpipe-attention-halfwidth/pipe-cache
+{'epoch': 9, 'seg_loss': 0.37615975603694096, 'depth_loss': None, 'lr': 9.572050015330873e-05, 'seconds': 28.36703714262694, 'peak_cuda_bytes': 411341824}
+{'epoch': 10, 'seg_loss': 0.3617356266477145, 'depth_loss': None, 'lr': 9.46048229473242e-05, 'seconds': 19.061382078565657, 'peak_cuda_bytes': 411227136}
+{'epoch': 11, 'seg_loss': 0.34091917099431157, 'depth_loss': None, 'lr': 9.336825748732971e-05, 'seconds': 19.0210322085768, 'peak_cuda_bytes': 411227136}
+Using verified pipe cache /root/autodl-tmp/subpipe-attention-halfwidth/pipe-cache
+{'epoch': 12, 'seg_loss': 0.3382866899482906, 'depth_loss': None, 'lr': 9.201419311329847e-05, 'seconds': 31.52399936877191, 'peak_cuda_bytes': 411341824}
+{'epoch': 13, 'seg_loss': 0.3352935042930767, 'depth_loss': None, 'lr': 9.054634122155987e-05, 'seconds': 23.45563113410026, 'peak_cuda_bytes': 411227136}
+{'epoch': 14, 'seg_loss': 0.3232520814635791, 'depth_loss': None, 'lr': 8.896872509212005e-05, 'seconds': 23.591013158671558, 'peak_cuda_bytes': 411227136}
+{'epoch': 15, 'seg_loss': 0.31845215550856665, 'depth_loss': None, 'lr': 8.7285668861131e-05, 'seconds': 23.52192084584385, 'peak_cuda_bytes': 411227136}
+{'epoch': 16, 'seg_loss': 0.3098802281310782, 'depth_loss': None, 'lr': 8.550178566873408e-05, 'seconds': 23.474034992046654, 'peak_cuda_bytes': 411227136}
+{'epoch': 17, 'seg_loss': 0.3043647425947711, 'depth_loss': None, 'lr': 8.362196501476347e-05, 'seconds': 23.529722787439823, 'peak_cuda_bytes': 411227136}
+{'epoch': 18, 'seg_loss': 0.30677094124257565, 'depth_loss': None, 'lr': 8.165135935696695e-05, 'seconds': 23.518666598014534, 'peak_cuda_bytes': 411227136}
+{'epoch': 19, 'seg_loss': 0.28618287449353375, 'depth_loss': None, 'lr': 7.959536998847741e-05, 'seconds': 23.510397764854133, 'peak_cuda_bytes': 411227136}
+{'epoch': 20, 'seg_loss': 0.2915346605004743, 'depth_loss': None, 'lr': 7.745963223324383e-05, 'seconds': 23.536433125846088, 'peak_cuda_bytes': 411227136}
+{'epoch': 21, 'seg_loss': 0.2673367590759881, 'depth_loss': None, 'lr': 7.524999999999999e-05, 'seconds': 23.510705921798944, 'peak_cuda_bytes': 411227136}
+{'epoch': 22, 'seg_loss': 0.2774695932166651, 'depth_loss': None, 'lr': 7.297252973710755e-05, 'seconds': 23.43054365925491, 'peak_cuda_bytes': 411227136}
+{'epoch': 23, 'seg_loss': 0.2778200415195897, 'depth_loss': None, 'lr': 7.06334638322521e-05, 'seconds': 23.50500143505633, 'peak_cuda_bytes': 411227136}
+{'epoch': 24, 'seg_loss': 0.2637074859230779, 'depth_loss': None, 'lr': 6.823921350249236e-05, 'seconds': 23.457552323117852, 'peak_cuda_bytes': 411227136}
+{'epoch': 25, 'seg_loss': 0.2661455357738305, 'depth_loss': None, 'lr': 6.579634122155988e-05, 'seconds': 23.529845396988094, 'peak_cuda_bytes': 411227136}
+{'epoch': 26, 'seg_loss': 0.2609315198205877, 'depth_loss': None, 'lr': 6.331154273257476e-05, 'seconds': 23.58987489528954, 'peak_cuda_bytes': 411227136}
+{'epoch': 27, 'seg_loss': 0.262963691377081, 'depth_loss': None, 'lr': 6.079162869547906e-05, 'seconds': 23.485844835639, 'peak_cuda_bytes': 411227136}
+{'epoch': 28, 'seg_loss': 0.2587751478422433, 'depth_loss': None, 'lr': 5.824350601949141e-05, 'seconds': 23.467111689969897, 'peak_cuda_bytes': 411227136}
+{'epoch': 29, 'seg_loss': 0.25853005779208615, 'depth_loss': None, 'lr': 5.567415893174883e-05, 'seconds': 23.520096350461245, 'peak_cuda_bytes': 411227136}
+{'epoch': 30, 'seg_loss': 0.2520737527520396, 'depth_loss': None, 'lr': 5.3090629834025695e-05, 'seconds': 23.483712839893997, 'peak_cuda_bytes': 411227136}
+{'epoch': 31, 'seg_loss': 0.24411167346988805, 'depth_loss': None, 'lr': 5.0499999999999994e-05, 'seconds': 23.426644417457283, 'peak_cuda_bytes': 411227136}
+{'epoch': 32, 'seg_loss': 0.2514734327851329, 'depth_loss': None, 'lr': 4.7909370165974273e-05, 'seconds': 23.49047722760588, 'peak_cuda_bytes': 411227136}
+{'epoch': 33, 'seg_loss': 0.23751071104197763, 'depth_loss': None, 'lr': 4.532584106825115e-05, 'seconds': 23.513533597812057, 'peak_cuda_bytes': 411227136}
+{'epoch': 34, 'seg_loss': 0.23892421164782718, 'depth_loss': None, 'lr': 4.275649398050856e-05, 'seconds': 23.50595316849649, 'peak_cuda_bytes': 411227136}
+{'epoch': 35, 'seg_loss': 0.24178859021048993, 'depth_loss': None, 'lr': 4.02083713045209e-05, 'seconds': 23.493479704484344, 'peak_cuda_bytes': 411227136}
+{'epoch': 36, 'seg_loss': 0.23952929195365869, 'depth_loss': None, 'lr': 3.768845726742522e-05, 'seconds': 23.472337420098484, 'peak_cuda_bytes': 411227136}
+{'epoch': 37, 'seg_loss': 0.2310100123868324, 'depth_loss': None, 'lr': 3.52036587784401e-05, 'seconds': 23.494616117328405, 'peak_cuda_bytes': 411227136}
+{'epoch': 38, 'seg_loss': 0.23400175673305057, 'depth_loss': None, 'lr': 3.276078649750763e-05, 'seconds': 23.4344763783738, 'peak_cuda_bytes': 411227136}
+{'epoch': 39, 'seg_loss': 0.22505997013649903, 'depth_loss': None, 'lr': 3.0366536167747892e-05, 'seconds': 23.527655767276883, 'peak_cuda_bytes': 411227136}
+{'epoch': 40, 'seg_loss': 0.2227180194167886, 'depth_loss': None, 'lr': 2.802747026289243e-05, 'seconds': 23.542597585357726, 'peak_cuda_bytes': 411227136}
+{'epoch': 41, 'seg_loss': 0.2214023368433118, 'depth_loss': None, 'lr': 2.5750000000000006e-05, 'seconds': 23.435665640980005, 'peak_cuda_bytes': 411227136}
+{'epoch': 42, 'seg_loss': 0.22881435198360123, 'depth_loss': None, 'lr': 2.354036776675617e-05, 'seconds': 23.477846342138946, 'peak_cuda_bytes': 411227136}
+{'epoch': 43, 'seg_loss': 0.22066843547509052, 'depth_loss': None, 'lr': 2.1404630011522583e-05, 'seconds': 23.45601973310113, 'peak_cuda_bytes': 411227136}
+{'epoch': 44, 'seg_loss': 0.22033630599617027, 'depth_loss': None, 'lr': 1.9348640643033054e-05, 'seconds': 23.526970479637384, 'peak_cuda_bytes': 411227136}
+{'epoch': 45, 'seg_loss': 0.21964561074855737, 'depth_loss': None, 'lr': 1.7378034985236535e-05, 'seconds': 23.52228671964258, 'peak_cuda_bytes': 411227136}
+{'epoch': 46, 'seg_loss': 0.22114932324620895, 'depth_loss': None, 'lr': 1.54982143312659e-05, 'seconds': 23.489417415112257, 'peak_cuda_bytes': 411227136}
+{'epoch': 47, 'seg_loss': 0.2147260116180405, 'depth_loss': None, 'lr': 1.3714331138868995e-05, 'seconds': 23.468975009396672, 'peak_cuda_bytes': 411227136}
+{'epoch': 48, 'seg_loss': 0.21305097383446991, 'depth_loss': None, 'lr': 1.203127490787994e-05, 'seconds': 23.4721312597394, 'peak_cuda_bytes': 411227136}
+{'epoch': 49, 'seg_loss': 0.21963905447046272, 'depth_loss': None, 'lr': 1.0453658778440105e-05, 'seconds': 23.482369666919112, 'peak_cuda_bytes': 411227136}
+{'epoch': 50, 'seg_loss': 0.21620249244733714, 'depth_loss': None, 'lr': 8.985806886701514e-06, 'seconds': 23.582123167812824, 'peak_cuda_bytes': 411227136}
+{'epoch': 51, 'seg_loss': 0.22113459458341822, 'depth_loss': None, 'lr': 7.631742512670283e-06, 'seconds': 23.478735611774027, 'peak_cuda_bytes': 411227136}
+{'epoch': 52, 'seg_loss': 0.20974128524539992, 'depth_loss': None, 'lr': 6.395177052675794e-06, 'seconds': 23.503545433282852, 'peak_cuda_bytes': 411227136}
+{'epoch': 53, 'seg_loss': 0.2219356951827649, 'depth_loss': None, 'lr': 5.2794998466912506e-06, 'seconds': 23.522086774930358, 'peak_cuda_bytes': 411227136}
+{'epoch': 54, 'seg_loss': 0.21815523519762792, 'depth_loss': None, 'lr': 4.2877688883885125e-06, 'seconds': 23.459756698459387, 'peak_cuda_bytes': 411227136}
+{'epoch': 55, 'seg_loss': 0.21272165520349517, 'depth_loss': None, 'lr': 3.4227024433898994e-06, 'seconds': 23.47660113684833, 'peak_cuda_bytes': 411227136}
+{'epoch': 56, 'seg_loss': 0.2095331560994964, 'depth_loss': None, 'lr': 2.686671598691118e-06, 'seconds': 23.48594645410776, 'peak_cuda_bytes': 411227136}
+{'epoch': 57, 'seg_loss': 0.20339594161487184, 'depth_loss': None, 'lr': 2.0816937636766182e-06, 'seconds': 23.423391786403954, 'peak_cuda_bytes': 411227136}
+{'epoch': 58, 'seg_loss': 0.2128405301773455, 'depth_loss': None, 'lr': 1.6094271405406857e-06, 'seconds': 22.78539188951254, 'peak_cuda_bytes': 411227136}
+{'epoch': 59, 'seg_loss': 0.20589943826780654, 'depth_loss': None, 'lr': 1.2711661792704665e-06, 'seconds': 21.52326145209372, 'peak_cuda_bytes': 411227136}
+{'epoch': 60, 'seg_loss': 0.2163184923119843, 'depth_loss': None, 'lr': 1.0678380296485951e-06, 'seconds': 20.155006694607437, 'peak_cuda_bytes': 411227136}
+{'semantic': {'per_class': {'background': {'iou': 0.9417976398799243, 'dice': 0.9700265573895358, 'precision': 0.9835839226991537, 'recall': 0.9568378502757999}, 'pipe': {'iou': 0.7333498577403816, 'dice': 0.846164846024087, 'precision': 0.7902595930084041, 'recall': 0.910582058851374}}, 'primary_iou': 0.7333498577403816, 'miou': 0.8375737488101529, 'boundary_f1': 0.3267971279803817, 'images': 130, 'signature': 'b919c50186a4ff99b06facbe14d938e394d386b235bd5d3aa19906041e6019b2'}}

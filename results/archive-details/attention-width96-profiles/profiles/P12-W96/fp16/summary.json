@@ -1,0 +1,94 @@
+{
+  "stats": {
+    "model": {
+      "per_repeat": [
+        {
+          "p50_ms": 4.0752883069217205,
+          "p95_ms": 4.1312988847494125,
+          "fps": 241.82440231498083
+        },
+        {
+          "p50_ms": 4.118971526622772,
+          "p95_ms": 4.190814308822155,
+          "fps": 241.01629071086268
+        },
+        {
+          "p50_ms": 4.089382477104664,
+          "p95_ms": 4.153532907366753,
+          "fps": 242.78642138375795
+        }
+      ],
+      "p50_ms": 4.089382477104664,
+      "p95_ms": 4.153532907366753,
+      "fps": 241.82440231498083
+    },
+    "end_to_end": {
+      "per_repeat": [
+        {
+          "p50_ms": 5.474535748362541,
+          "p95_ms": 5.514431977644563,
+          "fps": 182.60235553033178
+        },
+        {
+          "p50_ms": 5.283174570649862,
+          "p95_ms": 5.3337642922997475,
+          "fps": 189.13085890535152
+        },
+        {
+          "p50_ms": 5.48950769007206,
+          "p95_ms": 5.557632213458419,
+          "fps": 183.45529871900078
+        }
+      ],
+      "p50_ms": 5.474535748362541,
+      "p95_ms": 5.514431977644563,
+      "fps": 183.45529871900078
+    }
+  },
+  "device": "cuda:0",
+  "device_name": "NVIDIA GeForce RTX 5090",
+  "precision": "fp16_amp",
+  "frame": "/root/autodl-tmp/subpipe-attention-halfwidth/datasets/subpipe/train/1693573934.247.jpg",
+  "parameters": 530558,
+  "fp32_parameter_bytes": 2122232,
+  "checkpoint_bytes": 2303915,
+  "conv_linear_macs": 952498688,
+  "stereo_correlation_macs": 0,
+  "reported_flops": 1904997376,
+  "mac_coverage": "Conv2d/ConvTranspose2d/Linear and stereo dot products. Functional wavelet, interpolation, pooling, BN, activations and elementwise ops are outside this count.",
+  "peak_cuda": [
+    {
+      "mode": "model",
+      "repeat": 1,
+      "allocated_bytes": 75801088
+    },
+    {
+      "mode": "model",
+      "repeat": 2,
+      "allocated_bytes": 75801088
+    },
+    {
+      "mode": "model",
+      "repeat": 3,
+      "allocated_bytes": 75801088
+    },
+    {
+      "mode": "end_to_end",
+      "repeat": 1,
+      "allocated_bytes": 77570560
+    },
+    {
+      "mode": "end_to_end",
+      "repeat": 2,
+      "allocated_bytes": 77570560
+    },
+    {
+      "mode": "end_to_end",
+      "repeat": 3,
+      "allocated_bytes": 77570560
+    }
+  ],
+  "warmup": 100,
+  "frames": 200,
+  "repeats": 3
+}

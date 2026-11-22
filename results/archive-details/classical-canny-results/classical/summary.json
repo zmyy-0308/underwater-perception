@@ -1,0 +1,141 @@
+{
+  "canny": {
+    "minimum_high": 12,
+    "high_quantile": 0.9,
+    "low_ratio": 0.4
+  },
+  "morphological_close": [
+    5,
+    5
+  ],
+  "minimum_contour_area_fraction": 0.005,
+  "maximum_contour_area_fraction": 0.5,
+  "minimum_contour_aspect_ratio": 2,
+  "gray_stratum_window": [
+    9,
+    9
+  ],
+  "opencv": "4.12.0",
+  "folds": [
+    {
+      "fold": 0,
+      "images": 129,
+      "training_images_used_for_threshold": 513,
+      "concurrent_canny_cpu_p50_ms": 2.416298,
+      "concurrent_canny_cpu_p95_ms": 2.7341736,
+      "per_class": {
+        "background": {
+          "iou": 0.9087923429425064,
+          "dice": 0.9522170877336547,
+          "precision": 0.9088695560006494,
+          "recall": 0.9999065274820771
+        },
+        "pipe": {
+          "iou": 0.0,
+          "dice": 0.0,
+          "precision": 0.0,
+          "recall": 0.0
+        }
+      },
+      "primary_iou": 0.0,
+      "miou": 0.4543961714712532,
+      "boundary_f1": 0.0
+    },
+    {
+      "fold": 1,
+      "images": 130,
+      "training_images_used_for_threshold": 494,
+      "concurrent_canny_cpu_p50_ms": 2.4472180000000003,
+      "concurrent_canny_cpu_p95_ms": 2.77314195,
+      "per_class": {
+        "background": {
+          "iou": 0.845352019738861,
+          "dice": 0.9161959460271306,
+          "precision": 0.8480466028888934,
+          "recall": 0.9962554040224403
+        },
+        "pipe": {
+          "iou": 0.0004740904190912098,
+          "dice": 0.0009477315277452449,
+          "precision": 0.022564596372973842,
+          "recall": 0.00048403060478006044
+        }
+      },
+      "primary_iou": 0.0004740904190912098,
+      "miou": 0.4229130550789761,
+      "boundary_f1": 0.0009669263727027855
+    },
+    {
+      "fold": 2,
+      "images": 129,
+      "training_images_used_for_threshold": 495,
+      "concurrent_canny_cpu_p50_ms": 2.407314,
+      "concurrent_canny_cpu_p95_ms": 3.0725749999999996,
+      "per_class": {
+        "background": {
+          "iou": 0.8233625229630975,
+          "dice": 0.9031254208571461,
+          "precision": 0.8234710964369065,
+          "recall": 0.9998398913712748
+        },
+        "pipe": {
+          "iou": 0.0,
+          "dice": 0.0,
+          "precision": 0.0,
+          "recall": 0.0
+        }
+      },
+      "primary_iou": 0.0,
+      "miou": 0.41168126148154877,
+      "boundary_f1": 0.0
+    },
+    {
+      "fold": 3,
+      "images": 130,
+      "training_images_used_for_threshold": 493,
+      "concurrent_canny_cpu_p50_ms": 2.3889465000000003,
+      "concurrent_canny_cpu_p95_ms": 2.6350485,
+      "per_class": {
+        "background": {
+          "iou": 0.7814337444175654,
+          "dice": 0.8773087933989405,
+          "precision": 0.7838324881116381,
+          "recall": 0.9960990449289415
+        },
+        "pipe": {
+          "iou": 0.00654005433027488,
+          "dice": 0.012995119870567813,
+          "precision": 0.3198058545534771,
+          "recall": 0.0066323099110675195
+        }
+      },
+      "primary_iou": 0.00654005433027488,
+      "miou": 0.3939868993739202,
+      "boundary_f1": 0.009359160913951066
+    },
+    {
+      "fold": 4,
+      "images": 129,
+      "training_images_used_for_threshold": 500,
+      "concurrent_canny_cpu_p50_ms": 2.378694,
+      "concurrent_canny_cpu_p95_ms": 2.622558,
+      "per_class": {
+        "background": {
+          "iou": 0.8377833525786667,
+          "dice": 0.9117324426768145,
+          "precision": 0.8395151686448973,
+          "recall": 0.9975437450651674
+        },
+        "pipe": {
+          "iou": 0.0105375922701838,
+          "dice": 0.020855418642093233,
+          "precision": 0.45577059338399767,
+          "recall": 0.010671874268047032
+        }
+      },
+      "primary_iou": 0.0105375922701838,
+      "miou": 0.42416047242442523,
+      "boundary_f1": 0.012779310726125747
+    }
+  ]
+}

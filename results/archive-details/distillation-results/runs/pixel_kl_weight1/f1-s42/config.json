@@ -1,0 +1,50 @@
+{
+  "recipe_name": "pixel_kl_weight1",
+  "recipe": {
+    "temperature": 4,
+    "logit": 1,
+    "feature": "",
+    "scales": [
+      4
+    ],
+    "region": "uniform",
+    "teacher": "attention",
+    "student": "haar"
+  },
+  "fold": 1,
+  "seed": 42,
+  "epochs": 60,
+  "batch": 2,
+  "effective_batch": 8,
+  "initial_sha256": "df9d090e6ccfdc900d7ed9375394572af108b597a6c848517fd600f0dc122daf",
+  "teacher_sha256": "ba20e673ee66c60a5e55ece3afc1c1b4fc2b8a281db88738c9ac06f126cc0cc8",
+  "original_student_meta": {
+    "stage": "seg",
+    "group": {
+      "task": "pipe",
+      "name": "H11",
+      "width": 64
+    },
+    "seed": 42,
+    "fold": 1,
+    "stereo": null,
+    "stereo_splits": null,
+    "semantic_signature": "fb855d5b54b2179424c5cce85158d56f9666b3d4168ad0e371cc0bc6138e9309",
+    "stereo_signature": null,
+    "epochs": 60,
+    "steps": 0,
+    "batch": 2,
+    "effective_batch": 8,
+    "lr": 0.0001,
+    "min_lr": 1e-06,
+    "depth_weight": 1.0,
+    "device": "cuda:0",
+    "initial_sha256": "7f5810bc96def8f7552d5b7e68d53c4786f81167d28291b21c0d90e1fca14934",
+    "parent_sha256": null,
+    "code_sha256": "18d31b9c97b86e50a6363aa8f8fb1d30ad4d64e5b70fec3a2723817d094f579a",
+    "torch": "2.8.0+cu128",
+    "platform": "Linux-5.15.0-119-generic-x86_64-with-glibc2.35"
+  },
+  "limit": 0,
+  "code_sha256": "89f09c976d8411d8786ee08f7b78802ed7a9c52a1dc43d33319a6d3f562177e2816985ff3614cb89981da5db570870ca22ca3a761e575880c80626835949a42d"
+}

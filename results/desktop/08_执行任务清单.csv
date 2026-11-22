@@ -1,0 +1,237 @@
+﻿run_id,stage,task,group,width,fold,seed,training_gpu,archive,archive_job_order
+seg/pipe/P1-W128/f0-s42,seg,pipe,P1,128,0,42,RTX 3080 Ti,stage1-3080ti-raw.zip,1
+seg/pipe/P1-W128/f1-s42,seg,pipe,P1,128,1,42,RTX 3080 Ti,stage1-3080ti-raw.zip,2
+seg/pipe/P1-W128/f2-s42,seg,pipe,P1,128,2,42,RTX 3080 Ti,stage1-3080ti-raw.zip,3
+seg/pipe/P1-W128/f3-s42,seg,pipe,P1,128,3,42,RTX 3080 Ti,stage1-3080ti-raw.zip,4
+seg/pipe/P1-W128/f4-s42,seg,pipe,P1,128,4,42,RTX 3080 Ti,stage1-3080ti-raw.zip,5
+seg/pipe/P2-W128/f0-s42,seg,pipe,P2,128,0,42,RTX 3080 Ti,stage1-3080ti-raw.zip,6
+seg/pipe/P2-W128/f1-s42,seg,pipe,P2,128,1,42,RTX 3080 Ti,stage1-3080ti-raw.zip,7
+seg/pipe/P2-W128/f2-s42,seg,pipe,P2,128,2,42,RTX 3080 Ti,stage1-3080ti-raw.zip,8
+seg/pipe/P2-W128/f3-s42,seg,pipe,P2,128,3,42,RTX 3080 Ti,stage1-3080ti-raw.zip,9
+seg/pipe/P2-W128/f4-s42,seg,pipe,P2,128,4,42,RTX 3080 Ti,stage1-3080ti-raw.zip,10
+seg/pipe/P3-W128/f0-s42,seg,pipe,P3,128,0,42,RTX 3080 Ti,stage1-3080ti-raw.zip,11
+seg/pipe/P3-W128/f1-s42,seg,pipe,P3,128,1,42,RTX 3080 Ti,stage1-3080ti-raw.zip,12
+seg/pipe/P3-W128/f2-s42,seg,pipe,P3,128,2,42,RTX 3080 Ti,stage1-3080ti-raw.zip,13
+seg/pipe/P3-W128/f3-s42,seg,pipe,P3,128,3,42,RTX 3080 Ti,stage1-3080ti-raw.zip,14
+seg/pipe/P3-W128/f4-s42,seg,pipe,P3,128,4,42,RTX 3080 Ti,stage1-3080ti-raw.zip,15
+seg/pipe/P4-W128/f0-s42,seg,pipe,P4,128,0,42,RTX 3080 Ti,stage1-3080ti-raw.zip,16
+seg/pipe/P4-W128/f1-s42,seg,pipe,P4,128,1,42,RTX 3080 Ti,stage1-3080ti-raw.zip,17
+seg/pipe/P4-W128/f2-s42,seg,pipe,P4,128,2,42,RTX 3080 Ti,stage1-3080ti-raw.zip,18
+seg/pipe/P4-W128/f3-s42,seg,pipe,P4,128,3,42,RTX 3080 Ti,stage1-3080ti-raw.zip,19
+seg/pipe/P4-W128/f4-s42,seg,pipe,P4,128,4,42,RTX 3080 Ti,stage1-3080ti-raw.zip,20
+seg/pipe/P5-W128/f0-s42,seg,pipe,P5,128,0,42,RTX 3080 Ti,stage1-3080ti-raw.zip,21
+seg/pipe/P5-W128/f1-s42,seg,pipe,P5,128,1,42,RTX 3080 Ti,stage1-3080ti-raw.zip,22
+seg/pipe/P5-W128/f2-s42,seg,pipe,P5,128,2,42,RTX 3080 Ti,stage1-3080ti-raw.zip,23
+seg/pipe/P5-W128/f3-s42,seg,pipe,P5,128,3,42,RTX 3080 Ti,stage1-3080ti-raw.zip,24
+seg/pipe/P5-W128/f4-s42,seg,pipe,P5,128,4,42,RTX 3080 Ti,stage1-3080ti-raw.zip,25
+seg/pipe/P6-W128/f0-s42,seg,pipe,P6,128,0,42,RTX 3080 Ti,stage1-3080ti-raw.zip,26
+seg/pipe/P6-W128/f1-s42,seg,pipe,P6,128,1,42,RTX 3080 Ti,stage1-3080ti-raw.zip,27
+seg/pipe/P6-W128/f2-s42,seg,pipe,P6,128,2,42,RTX 3080 Ti,stage1-3080ti-raw.zip,28
+seg/pipe/P6-W128/f3-s42,seg,pipe,P6,128,3,42,RTX 3080 Ti,stage1-3080ti-raw.zip,29
+seg/pipe/P6-W128/f4-s42,seg,pipe,P6,128,4,42,RTX 3080 Ti,stage1-3080ti-raw.zip,30
+seg/pipe/P7-W128/f0-s42,seg,pipe,P7,128,0,42,RTX 3080 Ti,stage1-3080ti-raw.zip,31
+seg/pipe/P7-W128/f1-s42,seg,pipe,P7,128,1,42,RTX 3080 Ti,stage1-3080ti-raw.zip,32
+seg/pipe/P7-W128/f2-s42,seg,pipe,P7,128,2,42,RTX 3080 Ti,stage1-3080ti-raw.zip,33
+seg/pipe/P7-W128/f3-s42,seg,pipe,P7,128,3,42,RTX 3080 Ti,stage1-3080ti-raw.zip,34
+seg/pipe/P7-W128/f4-s42,seg,pipe,P7,128,4,42,RTX 3080 Ti,stage1-3080ti-raw.zip,35
+seg/pipe/P9-W128/f0-s42,seg,pipe,P9,128,0,42,RTX 3080 Ti,stage1-3080ti-raw.zip,36
+seg/pipe/P9-W128/f1-s42,seg,pipe,P9,128,1,42,RTX 3080 Ti,stage1-3080ti-raw.zip,37
+seg/pipe/P9-W128/f2-s42,seg,pipe,P9,128,2,42,RTX 3080 Ti,stage1-3080ti-raw.zip,38
+seg/pipe/P9-W128/f3-s42,seg,pipe,P9,128,3,42,RTX 3080 Ti,stage1-3080ti-raw.zip,39
+seg/pipe/P9-W128/f4-s42,seg,pipe,P9,128,4,42,RTX 3080 Ti,stage1-3080ti-raw.zip,40
+seg/pipe/P10-W128/f0-s42,seg,pipe,P10,128,0,42,RTX 3080 Ti,stage1-3080ti-raw.zip,41
+seg/pipe/P10-W128/f1-s42,seg,pipe,P10,128,1,42,RTX 3080 Ti,stage1-3080ti-raw.zip,42
+seg/pipe/P10-W128/f2-s42,seg,pipe,P10,128,2,42,RTX 3080 Ti,stage1-3080ti-raw.zip,43
+seg/pipe/P10-W128/f3-s42,seg,pipe,P10,128,3,42,RTX 3080 Ti,stage1-3080ti-raw.zip,44
+seg/pipe/P10-W128/f4-s42,seg,pipe,P10,128,4,42,RTX 3080 Ti,stage1-3080ti-raw.zip,45
+seg/pipe/P8-W64/f0-s43,seg,pipe,P8,64,0,43,RTX 3080 Ti,stage1-3080ti-raw.zip,46
+seg/pipe/P8-W64/f0-s44,seg,pipe,P8,64,0,44,RTX 3080 Ti,stage1-3080ti-raw.zip,47
+seg/pipe/P8-W64/f1-s42,seg,pipe,P8,64,1,42,RTX 3080 Ti,stage1-3080ti-raw.zip,48
+seg/pipe/P8-W64/f1-s43,seg,pipe,P8,64,1,43,RTX 3080 Ti,stage1-3080ti-raw.zip,49
+seg/pipe/P8-W64/f1-s44,seg,pipe,P8,64,1,44,RTX 3080 Ti,stage1-3080ti-raw.zip,50
+seg/pipe/P8-W64/f2-s42,seg,pipe,P8,64,2,42,RTX 3080 Ti,stage1-3080ti-raw.zip,51
+seg/pipe/P8-W64/f2-s43,seg,pipe,P8,64,2,43,RTX 3080 Ti,stage1-3080ti-raw.zip,52
+seg/pipe/P8-W64/f2-s44,seg,pipe,P8,64,2,44,RTX 3080 Ti,stage1-3080ti-raw.zip,53
+seg/pipe/P8-W64/f3-s42,seg,pipe,P8,64,3,42,RTX 3080 Ti,stage1-3080ti-raw.zip,54
+seg/pipe/P8-W64/f3-s43,seg,pipe,P8,64,3,43,RTX 3080 Ti,stage1-3080ti-raw.zip,55
+seg/pipe/P8-W64/f3-s44,seg,pipe,P8,64,3,44,RTX 3080 Ti,stage1-3080ti-raw.zip,56
+seg/pipe/P8-W64/f4-s42,seg,pipe,P8,64,4,42,RTX 3080 Ti,stage1-3080ti-raw.zip,57
+seg/pipe/P8-W64/f4-s43,seg,pipe,P8,64,4,43,RTX 3080 Ti,stage1-3080ti-raw.zip,58
+seg/pipe/P8-W64/f4-s44,seg,pipe,P8,64,4,44,RTX 3080 Ti,stage1-3080ti-raw.zip,59
+seg/pipe/P8-W96/f0-s43,seg,pipe,P8,96,0,43,RTX 3080 Ti,stage1-3080ti-raw.zip,60
+seg/pipe/P8-W96/f0-s44,seg,pipe,P8,96,0,44,RTX 3080 Ti,stage1-3080ti-raw.zip,61
+seg/pipe/P8-W96/f1-s42,seg,pipe,P8,96,1,42,RTX 3080 Ti,stage1-3080ti-raw.zip,62
+seg/pipe/P8-W96/f1-s43,seg,pipe,P8,96,1,43,RTX 3080 Ti,stage1-3080ti-raw.zip,63
+seg/pipe/P8-W96/f1-s44,seg,pipe,P8,96,1,44,RTX 3080 Ti,stage1-3080ti-raw.zip,64
+seg/pipe/P8-W96/f2-s42,seg,pipe,P8,96,2,42,RTX 3080 Ti,stage1-3080ti-raw.zip,65
+seg/pipe/P8-W96/f2-s43,seg,pipe,P8,96,2,43,RTX 3080 Ti,stage1-3080ti-raw.zip,66
+seg/pipe/P8-W96/f2-s44,seg,pipe,P8,96,2,44,RTX 3080 Ti,stage1-3080ti-raw.zip,67
+seg/pipe/P8-W96/f3-s42,seg,pipe,P8,96,3,42,RTX 3080 Ti,stage1-3080ti-raw.zip,68
+seg/pipe/P8-W96/f3-s43,seg,pipe,P8,96,3,43,RTX 3080 Ti,stage1-3080ti-raw.zip,69
+seg/pipe/P8-W96/f3-s44,seg,pipe,P8,96,3,44,RTX 3080 Ti,stage1-3080ti-raw.zip,70
+seg/pipe/P8-W96/f4-s42,seg,pipe,P8,96,4,42,RTX 3080 Ti,stage1-3080ti-raw.zip,71
+seg/pipe/P8-W96/f4-s43,seg,pipe,P8,96,4,43,RTX 3080 Ti,stage1-3080ti-raw.zip,72
+seg/pipe/P8-W96/f4-s44,seg,pipe,P8,96,4,44,RTX 3080 Ti,stage1-3080ti-raw.zip,73
+seg/pipe/P8-W128/f0-s43,seg,pipe,P8,128,0,43,RTX 3080 Ti,stage1-3080ti-raw.zip,74
+seg/pipe/P8-W128/f0-s44,seg,pipe,P8,128,0,44,RTX 3080 Ti,stage1-3080ti-raw.zip,75
+seg/pipe/P8-W128/f1-s42,seg,pipe,P8,128,1,42,RTX 3080 Ti,stage1-3080ti-raw.zip,76
+seg/pipe/P8-W128/f1-s43,seg,pipe,P8,128,1,43,RTX 3080 Ti,stage1-3080ti-raw.zip,77
+seg/pipe/P8-W128/f1-s44,seg,pipe,P8,128,1,44,RTX 3080 Ti,stage1-3080ti-raw.zip,78
+seg/pipe/P8-W128/f2-s42,seg,pipe,P8,128,2,42,RTX 3080 Ti,stage1-3080ti-raw.zip,79
+seg/pipe/P8-W128/f2-s43,seg,pipe,P8,128,2,43,RTX 3080 Ti,stage1-3080ti-raw.zip,80
+seg/pipe/P8-W128/f2-s44,seg,pipe,P8,128,2,44,RTX 3080 Ti,stage1-3080ti-raw.zip,81
+seg/pipe/P8-W128/f3-s42,seg,pipe,P8,128,3,42,RTX 3080 Ti,stage1-3080ti-raw.zip,82
+seg/pipe/P8-W128/f3-s43,seg,pipe,P8,128,3,43,RTX 3080 Ti,stage1-3080ti-raw.zip,83
+seg/pipe/P8-W128/f3-s44,seg,pipe,P8,128,3,44,RTX 3080 Ti,stage1-3080ti-raw.zip,84
+seg/pipe/P8-W128/f4-s42,seg,pipe,P8,128,4,42,RTX 3080 Ti,stage1-3080ti-raw.zip,85
+seg/pipe/P8-W128/f4-s43,seg,pipe,P8,128,4,43,RTX 3080 Ti,stage1-3080ti-raw.zip,86
+seg/pipe/P8-W128/f4-s44,seg,pipe,P8,128,4,44,RTX 3080 Ti,stage1-3080ti-raw.zip,87
+seg/pipe/P8-W64/f0-s42,seg,pipe,P8,64,0,42,RTX 5090,stage1-5090-raw.zip,1
+seg/pipe/P8-W96/f0-s42,seg,pipe,P8,96,0,42,RTX 5090,stage1-5090-raw.zip,2
+seg/pipe/P8-W128/f0-s42,seg,pipe,P8,128,0,42,RTX 5090,stage1-5090-raw.zip,3
+seg/pipe/U1-W128/f0-s42,seg,pipe,U1,128,0,42,RTX 5090,stage1-5090-raw.zip,4
+seg/pipe/U1-W128/f0-s43,seg,pipe,U1,128,0,43,RTX 5090,stage1-5090-raw.zip,5
+seg/pipe/U1-W128/f0-s44,seg,pipe,U1,128,0,44,RTX 5090,stage1-5090-raw.zip,6
+seg/pipe/U1-W128/f1-s42,seg,pipe,U1,128,1,42,RTX 5090,stage1-5090-raw.zip,7
+seg/pipe/U1-W128/f1-s43,seg,pipe,U1,128,1,43,RTX 5090,stage1-5090-raw.zip,8
+seg/pipe/U1-W128/f1-s44,seg,pipe,U1,128,1,44,RTX 5090,stage1-5090-raw.zip,9
+seg/pipe/U1-W128/f2-s42,seg,pipe,U1,128,2,42,RTX 5090,stage1-5090-raw.zip,10
+seg/pipe/U1-W128/f2-s43,seg,pipe,U1,128,2,43,RTX 5090,stage1-5090-raw.zip,11
+seg/pipe/U1-W128/f2-s44,seg,pipe,U1,128,2,44,RTX 5090,stage1-5090-raw.zip,12
+seg/pipe/U1-W128/f3-s42,seg,pipe,U1,128,3,42,RTX 5090,stage1-5090-raw.zip,13
+seg/pipe/U1-W128/f3-s43,seg,pipe,U1,128,3,43,RTX 5090,stage1-5090-raw.zip,14
+seg/pipe/U1-W128/f3-s44,seg,pipe,U1,128,3,44,RTX 5090,stage1-5090-raw.zip,15
+seg/pipe/U1-W128/f4-s42,seg,pipe,U1,128,4,42,RTX 5090,stage1-5090-raw.zip,16
+seg/pipe/U1-W128/f4-s43,seg,pipe,U1,128,4,43,RTX 5090,stage1-5090-raw.zip,17
+seg/pipe/U1-W128/f4-s44,seg,pipe,U1,128,4,44,RTX 5090,stage1-5090-raw.zip,18
+seg/pipe/U2-W128/f0-s42,seg,pipe,U2,128,0,42,RTX 5090,stage1-5090-raw.zip,19
+seg/pipe/U2-W128/f1-s42,seg,pipe,U2,128,1,42,RTX 5090,stage1-5090-raw.zip,20
+seg/pipe/U2-W128/f2-s42,seg,pipe,U2,128,2,42,RTX 5090,stage1-5090-raw.zip,21
+seg/pipe/U2-W128/f3-s42,seg,pipe,U2,128,3,42,RTX 5090,stage1-5090-raw.zip,22
+seg/pipe/U2-W128/f4-s42,seg,pipe,U2,128,4,42,RTX 5090,stage1-5090-raw.zip,23
+seg/pipe/U3-W128/f0-s42,seg,pipe,U3,128,0,42,RTX 5090,stage1-5090-raw.zip,24
+seg/pipe/U3-W128/f1-s42,seg,pipe,U3,128,1,42,RTX 5090,stage1-5090-raw.zip,25
+seg/pipe/U3-W128/f2-s42,seg,pipe,U3,128,2,42,RTX 5090,stage1-5090-raw.zip,26
+seg/pipe/U3-W128/f3-s42,seg,pipe,U3,128,3,42,RTX 5090,stage1-5090-raw.zip,27
+seg/pipe/U3-W128/f4-s42,seg,pipe,U3,128,4,42,RTX 5090,stage1-5090-raw.zip,28
+seg/pipe/U4-W128/f0-s42,seg,pipe,U4,128,0,42,RTX 5090,stage1-5090-raw.zip,29
+seg/pipe/U4-W128/f1-s42,seg,pipe,U4,128,1,42,RTX 5090,stage1-5090-raw.zip,30
+seg/pipe/U4-W128/f2-s42,seg,pipe,U4,128,2,42,RTX 5090,stage1-5090-raw.zip,31
+seg/pipe/U4-W128/f3-s42,seg,pipe,U4,128,3,42,RTX 5090,stage1-5090-raw.zip,32
+seg/pipe/U4-W128/f4-s42,seg,pipe,U4,128,4,42,RTX 5090,stage1-5090-raw.zip,33
+seg/pipe/U5-W128/f0-s42,seg,pipe,U5,128,0,42,RTX 5090,stage1-5090-raw.zip,34
+seg/pipe/U5-W128/f1-s42,seg,pipe,U5,128,1,42,RTX 5090,stage1-5090-raw.zip,35
+seg/pipe/U5-W128/f2-s42,seg,pipe,U5,128,2,42,RTX 5090,stage1-5090-raw.zip,36
+seg/pipe/U5-W128/f3-s42,seg,pipe,U5,128,3,42,RTX 5090,stage1-5090-raw.zip,37
+seg/pipe/U5-W128/f4-s42,seg,pipe,U5,128,4,42,RTX 5090,stage1-5090-raw.zip,38
+seg/pipe/U6-W128/f0-s42,seg,pipe,U6,128,0,42,RTX 5090,stage1-5090-raw.zip,39
+seg/pipe/U6-W128/f1-s42,seg,pipe,U6,128,1,42,RTX 5090,stage1-5090-raw.zip,40
+seg/pipe/U6-W128/f2-s42,seg,pipe,U6,128,2,42,RTX 5090,stage1-5090-raw.zip,41
+seg/pipe/U6-W128/f3-s42,seg,pipe,U6,128,3,42,RTX 5090,stage1-5090-raw.zip,42
+seg/pipe/U6-W128/f4-s42,seg,pipe,U6,128,4,42,RTX 5090,stage1-5090-raw.zip,43
+seg/pipe/U7-W128/f0-s42,seg,pipe,U7,128,0,42,RTX 5090,stage1-5090-raw.zip,44
+seg/pipe/U7-W128/f1-s42,seg,pipe,U7,128,1,42,RTX 5090,stage1-5090-raw.zip,45
+seg/pipe/U7-W128/f2-s42,seg,pipe,U7,128,2,42,RTX 5090,stage1-5090-raw.zip,46
+seg/pipe/U7-W128/f3-s42,seg,pipe,U7,128,3,42,RTX 5090,stage1-5090-raw.zip,47
+seg/pipe/U7-W128/f4-s42,seg,pipe,U7,128,4,42,RTX 5090,stage1-5090-raw.zip,48
+seg/pipe/U8-W128/f0-s42,seg,pipe,U8,128,0,42,RTX 5090,stage1-5090-raw.zip,49
+seg/pipe/U8-W128/f1-s42,seg,pipe,U8,128,1,42,RTX 5090,stage1-5090-raw.zip,50
+seg/pipe/U8-W128/f2-s42,seg,pipe,U8,128,2,42,RTX 5090,stage1-5090-raw.zip,51
+seg/pipe/U8-W128/f3-s42,seg,pipe,U8,128,3,42,RTX 5090,stage1-5090-raw.zip,52
+seg/pipe/U8-W128/f4-s42,seg,pipe,U8,128,4,42,RTX 5090,stage1-5090-raw.zip,53
+seg/pipe/E2-W128/f0-s42,seg,pipe,E2,128,0,42,RTX 5090,stage1-5090-raw.zip,54
+seg/pipe/E2-W128/f0-s43,seg,pipe,E2,128,0,43,RTX 5090,stage1-5090-raw.zip,55
+seg/pipe/E2-W128/f0-s44,seg,pipe,E2,128,0,44,RTX 5090,stage1-5090-raw.zip,56
+seg/pipe/E2-W128/f1-s42,seg,pipe,E2,128,1,42,RTX 5090,stage1-5090-raw.zip,57
+seg/pipe/E2-W128/f1-s43,seg,pipe,E2,128,1,43,RTX 5090,stage1-5090-raw.zip,58
+seg/pipe/E2-W128/f1-s44,seg,pipe,E2,128,1,44,RTX 5090,stage1-5090-raw.zip,59
+seg/pipe/E2-W128/f2-s42,seg,pipe,E2,128,2,42,RTX 5090,stage1-5090-raw.zip,60
+seg/pipe/E2-W128/f2-s43,seg,pipe,E2,128,2,43,RTX 5090,stage1-5090-raw.zip,61
+seg/pipe/E2-W128/f2-s44,seg,pipe,E2,128,2,44,RTX 5090,stage1-5090-raw.zip,62
+seg/pipe/E2-W128/f3-s42,seg,pipe,E2,128,3,42,RTX 5090,stage1-5090-raw.zip,63
+seg/pipe/E2-W128/f3-s43,seg,pipe,E2,128,3,43,RTX 5090,stage1-5090-raw.zip,64
+seg/pipe/E2-W128/f3-s44,seg,pipe,E2,128,3,44,RTX 5090,stage1-5090-raw.zip,65
+seg/pipe/E2-W128/f4-s42,seg,pipe,E2,128,4,42,RTX 5090,stage1-5090-raw.zip,66
+seg/pipe/E2-W128/f4-s43,seg,pipe,E2,128,4,43,RTX 5090,stage1-5090-raw.zip,67
+seg/pipe/E2-W128/f4-s44,seg,pipe,E2,128,4,44,RTX 5090,stage1-5090-raw.zip,68
+seg/pipe/E3-W128/f0-s42,seg,pipe,E3,128,0,42,RTX 5090,stage1-5090-raw.zip,69
+seg/pipe/E3-W128/f0-s43,seg,pipe,E3,128,0,43,RTX 5090,stage1-5090-raw.zip,70
+seg/pipe/E3-W128/f0-s44,seg,pipe,E3,128,0,44,RTX 5090,stage1-5090-raw.zip,71
+seg/pipe/E3-W128/f1-s42,seg,pipe,E3,128,1,42,RTX 5090,stage1-5090-raw.zip,72
+seg/pipe/E3-W128/f1-s43,seg,pipe,E3,128,1,43,RTX 5090,stage1-5090-raw.zip,73
+seg/pipe/E3-W128/f1-s44,seg,pipe,E3,128,1,44,RTX 5090,stage1-5090-raw.zip,74
+seg/pipe/E3-W128/f2-s42,seg,pipe,E3,128,2,42,RTX 5090,stage1-5090-raw.zip,75
+seg/pipe/E3-W128/f2-s43,seg,pipe,E3,128,2,43,RTX 5090,stage1-5090-raw.zip,76
+seg/pipe/E3-W128/f2-s44,seg,pipe,E3,128,2,44,RTX 5090,stage1-5090-raw.zip,77
+seg/pipe/E3-W128/f3-s42,seg,pipe,E3,128,3,42,RTX 5090,stage1-5090-raw.zip,78
+seg/pipe/E3-W128/f3-s43,seg,pipe,E3,128,3,43,RTX 5090,stage1-5090-raw.zip,79
+seg/pipe/E3-W128/f3-s44,seg,pipe,E3,128,3,44,RTX 5090,stage1-5090-raw.zip,80
+seg/pipe/E3-W128/f4-s42,seg,pipe,E3,128,4,42,RTX 5090,stage1-5090-raw.zip,81
+seg/pipe/E3-W128/f4-s43,seg,pipe,E3,128,4,43,RTX 5090,stage1-5090-raw.zip,82
+seg/pipe/E3-W128/f4-s44,seg,pipe,E3,128,4,44,RTX 5090,stage1-5090-raw.zip,83
+seg/pipe/E4-W128/f0-s42,seg,pipe,E4,128,0,42,RTX 5090,stage1-5090-raw.zip,84
+seg/pipe/E4-W128/f0-s43,seg,pipe,E4,128,0,43,RTX 5090,stage1-5090-raw.zip,85
+seg/pipe/E4-W128/f0-s44,seg,pipe,E4,128,0,44,RTX 5090,stage1-5090-raw.zip,86
+seg/pipe/E4-W128/f1-s42,seg,pipe,E4,128,1,42,RTX 5090,stage1-5090-raw.zip,87
+seg/pipe/E4-W128/f1-s43,seg,pipe,E4,128,1,43,RTX 5090,stage1-5090-raw.zip,88
+seg/pipe/E4-W128/f1-s44,seg,pipe,E4,128,1,44,RTX 5090,stage1-5090-raw.zip,89
+seg/pipe/E4-W128/f2-s42,seg,pipe,E4,128,2,42,RTX 5090,stage1-5090-raw.zip,90
+seg/pipe/E4-W128/f2-s43,seg,pipe,E4,128,2,43,RTX 5090,stage1-5090-raw.zip,91
+seg/pipe/E4-W128/f2-s44,seg,pipe,E4,128,2,44,RTX 5090,stage1-5090-raw.zip,92
+seg/pipe/E4-W128/f3-s42,seg,pipe,E4,128,3,42,RTX 5090,stage1-5090-raw.zip,93
+seg/pipe/E4-W128/f3-s43,seg,pipe,E4,128,3,43,RTX 5090,stage1-5090-raw.zip,94
+seg/pipe/E4-W128/f3-s44,seg,pipe,E4,128,3,44,RTX 5090,stage1-5090-raw.zip,95
+seg/pipe/E4-W128/f4-s42,seg,pipe,E4,128,4,42,RTX 5090,stage1-5090-raw.zip,96
+seg/pipe/E4-W128/f4-s43,seg,pipe,E4,128,4,43,RTX 5090,stage1-5090-raw.zip,97
+seg/pipe/E4-W128/f4-s44,seg,pipe,E4,128,4,44,RTX 5090,stage1-5090-raw.zip,98
+seg/pipe/E5-W128/f0-s42,seg,pipe,E5,128,0,42,RTX 5090,stage1-5090-raw.zip,99
+seg/pipe/E5-W128/f0-s43,seg,pipe,E5,128,0,43,RTX 5090,stage1-5090-raw.zip,100
+seg/pipe/E5-W128/f0-s44,seg,pipe,E5,128,0,44,RTX 5090,stage1-5090-raw.zip,101
+seg/pipe/E5-W128/f1-s42,seg,pipe,E5,128,1,42,RTX 5090,stage1-5090-raw.zip,102
+seg/pipe/E5-W128/f1-s43,seg,pipe,E5,128,1,43,RTX 5090,stage1-5090-raw.zip,103
+seg/pipe/E5-W128/f1-s44,seg,pipe,E5,128,1,44,RTX 5090,stage1-5090-raw.zip,104
+seg/pipe/E5-W128/f2-s42,seg,pipe,E5,128,2,42,RTX 5090,stage1-5090-raw.zip,105
+seg/pipe/E5-W128/f2-s43,seg,pipe,E5,128,2,43,RTX 5090,stage1-5090-raw.zip,106
+seg/pipe/E5-W128/f2-s44,seg,pipe,E5,128,2,44,RTX 5090,stage1-5090-raw.zip,107
+seg/pipe/E5-W128/f3-s42,seg,pipe,E5,128,3,42,RTX 5090,stage1-5090-raw.zip,108
+seg/pipe/E5-W128/f3-s43,seg,pipe,E5,128,3,43,RTX 5090,stage1-5090-raw.zip,109
+seg/pipe/E5-W128/f3-s44,seg,pipe,E5,128,3,44,RTX 5090,stage1-5090-raw.zip,110
+seg/pipe/E5-W128/f4-s42,seg,pipe,E5,128,4,42,RTX 5090,stage1-5090-raw.zip,111
+seg/pipe/E5-W128/f4-s43,seg,pipe,E5,128,4,43,RTX 5090,stage1-5090-raw.zip,112
+seg/pipe/E5-W128/f4-s44,seg,pipe,E5,128,4,44,RTX 5090,stage1-5090-raw.zip,113
+seg/bio/B1-W64/f0-s42,seg,bio,B1,64,0,42,RTX 5090,stage1-5090-raw.zip,114
+seg/bio/B2-W64/f0-s42,seg,bio,B2,64,0,42,RTX 5090,stage1-5090-raw.zip,115
+seg/bio/B3-W64/f0-s42,seg,bio,B3,64,0,42,RTX 5090,stage1-5090-raw.zip,116
+seg/bio/B4-W64/f0-s42,seg,bio,B4,64,0,42,RTX 5090,stage1-5090-raw.zip,117
+seg/bio/B4-W64/f0-s43,seg,bio,B4,64,0,43,RTX 5090,stage1-5090-raw.zip,118
+seg/bio/B4-W64/f0-s44,seg,bio,B4,64,0,44,RTX 5090,stage1-5090-raw.zip,119
+seg/bio/B4-W96/f0-s42,seg,bio,B4,96,0,42,RTX 5090,stage1-5090-raw.zip,120
+seg/bio/B4-W96/f0-s43,seg,bio,B4,96,0,43,RTX 5090,stage1-5090-raw.zip,121
+seg/bio/B4-W96/f0-s44,seg,bio,B4,96,0,44,RTX 5090,stage1-5090-raw.zip,122
+seg/bio/B4-W128/f0-s42,seg,bio,B4,128,0,42,RTX 5090,stage1-5090-raw.zip,123
+seg/bio/B4-W128/f0-s43,seg,bio,B4,128,0,43,RTX 5090,stage1-5090-raw.zip,124
+seg/bio/B4-W128/f0-s44,seg,bio,B4,128,0,44,RTX 5090,stage1-5090-raw.zip,125
+seg/bio/B5-W64/f0-s42,seg,bio,B5,64,0,42,RTX 5090,stage1-5090-raw.zip,126
+seg/bio/B6-W64/f0-s42,seg,bio,B6,64,0,42,RTX 5090,stage1-5090-raw.zip,127
+seg/bio/U1-W128/f0-s42,seg,bio,U1,128,0,42,RTX 5090,stage1-5090-raw.zip,128
+seg/bio/U1-W128/f0-s43,seg,bio,U1,128,0,43,RTX 5090,stage1-5090-raw.zip,129
+seg/bio/U1-W128/f0-s44,seg,bio,U1,128,0,44,RTX 5090,stage1-5090-raw.zip,130
+seg/bio/U2-W128/f0-s42,seg,bio,U2,128,0,42,RTX 5090,stage1-5090-raw.zip,131
+seg/bio/U3-W128/f0-s42,seg,bio,U3,128,0,42,RTX 5090,stage1-5090-raw.zip,132
+seg/bio/U4-W128/f0-s42,seg,bio,U4,128,0,42,RTX 5090,stage1-5090-raw.zip,133
+seg/bio/U5-W128/f0-s42,seg,bio,U5,128,0,42,RTX 5090,stage1-5090-raw.zip,134
+seg/bio/U6-W128/f0-s42,seg,bio,U6,128,0,42,RTX 5090,stage1-5090-raw.zip,135
+seg/bio/U7-W128/f0-s42,seg,bio,U7,128,0,42,RTX 5090,stage1-5090-raw.zip,136
+seg/bio/U8-W128/f0-s42,seg,bio,U8,128,0,42,RTX 5090,stage1-5090-raw.zip,137
+seg/bio/E2-W128/f0-s42,seg,bio,E2,128,0,42,RTX 5090,stage1-5090-raw.zip,138
+seg/bio/E2-W128/f0-s43,seg,bio,E2,128,0,43,RTX 5090,stage1-5090-raw.zip,139
+seg/bio/E2-W128/f0-s44,seg,bio,E2,128,0,44,RTX 5090,stage1-5090-raw.zip,140
+seg/bio/E3-W128/f0-s42,seg,bio,E3,128,0,42,RTX 5090,stage1-5090-raw.zip,141
+seg/bio/E3-W128/f0-s43,seg,bio,E3,128,0,43,RTX 5090,stage1-5090-raw.zip,142
+seg/bio/E3-W128/f0-s44,seg,bio,E3,128,0,44,RTX 5090,stage1-5090-raw.zip,143
+seg/bio/E4-W128/f0-s42,seg,bio,E4,128,0,42,RTX 5090,stage1-5090-raw.zip,144
+seg/bio/E4-W128/f0-s43,seg,bio,E4,128,0,43,RTX 5090,stage1-5090-raw.zip,145
+seg/bio/E4-W128/f0-s44,seg,bio,E4,128,0,44,RTX 5090,stage1-5090-raw.zip,146
+seg/bio/E5-W128/f0-s42,seg,bio,E5,128,0,42,RTX 5090,stage1-5090-raw.zip,147
+seg/bio/E5-W128/f0-s43,seg,bio,E5,128,0,43,RTX 5090,stage1-5090-raw.zip,148
+seg/bio/E5-W128/f0-s44,seg,bio,E5,128,0,44,RTX 5090,stage1-5090-raw.zip,149

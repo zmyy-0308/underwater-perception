@@ -1,0 +1,35 @@
+{
+  "semantic": {
+    "per_class": {
+      "background": {
+        "iou": 0.8189763418287221,
+        "dice": 0.9004804768437591,
+        "precision": 0.9454378448303201,
+        "recall": 0.8596046409771493
+      },
+      "pipe": {
+        "iou": 0.5442854680888343,
+        "dice": 0.7049026612449151,
+        "precision": 0.6177927257887816,
+        "recall": 0.8206102486068706
+      }
+    },
+    "primary_iou": 0.5442854680888343,
+    "miou": 0.6816309049587782,
+    "boundary_f1": 0.23897135981303244,
+    "images": 130,
+    "signature": "edf4d27d7c54cf93c73463907a95c9d30420dbef1e6da20c5a0adb6046656a42"
+  },
+  "checkpoint_sha256": "38e7a36f2d51c7a2d89ca956beccd1ba5dbb2bf5af5c4da42239f64b0f21d606",
+  "group": {
+    "task": "pipe",
+    "name": "P15",
+    "width": 96
+  },
+  "fold": 3,
+  "seed": 42,
+  "stage": "seg",
+  "device": "cuda:0",
+  "semantic_split": "test",
+  "stereo_split": null
+}

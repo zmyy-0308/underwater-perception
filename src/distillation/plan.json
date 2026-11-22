@@ -1,0 +1,822 @@
+{
+  "configs": 24,
+  "main_runs": 120,
+  "repeat_runs": 40,
+  "jobs": [
+    {
+      "recipe": "supervised",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "supervised",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "supervised",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "supervised",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "supervised",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_temp2",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_temp2",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_temp2",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_temp2",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_temp2",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_temp6",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_temp6",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_temp6",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_temp6",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_temp6",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_weight025",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_weight025",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_weight025",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_weight025",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_weight025",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_weight1",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_weight1",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_weight1",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_weight1",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_weight1",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_mse_quarter",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_mse_quarter",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_mse_quarter",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_mse_quarter",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_mse_quarter",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_quarter",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_quarter",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_quarter",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_quarter",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_quarter",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_eighth",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_eighth",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_eighth",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_eighth",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_eighth",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_multiscale",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_multiscale",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_multiscale",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_multiscale",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "feature_cwd_multiscale",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_mse",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_mse",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_mse",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_mse",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_mse",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd_multiscale",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd_multiscale",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd_multiscale",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd_multiscale",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd_multiscale",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_feature_cwd",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_feature_cwd",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_feature_cwd",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_feature_cwd",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_feature_cwd",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_narrow",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_narrow",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_narrow",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_narrow",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_narrow",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_wide",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_wide",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_wide",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_wide",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "edge_kl_wide",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "balanced_kl",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "balanced_kl",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "balanced_kl",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "balanced_kl",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "balanced_kl",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "teacher_correct_kl",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "teacher_correct_kl",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "teacher_correct_kl",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "teacher_correct_kl",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "teacher_correct_kl",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_features",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_features",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_features",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_features",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_features",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_logits",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_logits",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_logits",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_logits",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_logits",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "plain_teacher_kl",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "plain_teacher_kl",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "plain_teacher_kl",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "plain_teacher_kl",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "plain_teacher_kl",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "gray_supervised",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "gray_supervised",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "gray_supervised",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "gray_supervised",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "gray_supervised",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "gray_dual",
+      "fold": 0,
+      "seed": 42
+    },
+    {
+      "recipe": "gray_dual",
+      "fold": 1,
+      "seed": 42
+    },
+    {
+      "recipe": "gray_dual",
+      "fold": 2,
+      "seed": 42
+    },
+    {
+      "recipe": "gray_dual",
+      "fold": 3,
+      "seed": 42
+    },
+    {
+      "recipe": "gray_dual",
+      "fold": 4,
+      "seed": 42
+    },
+    {
+      "recipe": "supervised",
+      "fold": 0,
+      "seed": 43
+    },
+    {
+      "recipe": "supervised",
+      "fold": 1,
+      "seed": 43
+    },
+    {
+      "recipe": "supervised",
+      "fold": 2,
+      "seed": 43
+    },
+    {
+      "recipe": "supervised",
+      "fold": 3,
+      "seed": 43
+    },
+    {
+      "recipe": "supervised",
+      "fold": 4,
+      "seed": 43
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 0,
+      "seed": 43
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 1,
+      "seed": 43
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 2,
+      "seed": 43
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 3,
+      "seed": 43
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 4,
+      "seed": 43
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 0,
+      "seed": 43
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 1,
+      "seed": 43
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 2,
+      "seed": 43
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 3,
+      "seed": 43
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 4,
+      "seed": 43
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 0,
+      "seed": 43
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 1,
+      "seed": 43
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 2,
+      "seed": 43
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 3,
+      "seed": 43
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 4,
+      "seed": 43
+    },
+    {
+      "recipe": "supervised",
+      "fold": 0,
+      "seed": 44
+    },
+    {
+      "recipe": "supervised",
+      "fold": 1,
+      "seed": 44
+    },
+    {
+      "recipe": "supervised",
+      "fold": 2,
+      "seed": 44
+    },
+    {
+      "recipe": "supervised",
+      "fold": 3,
+      "seed": 44
+    },
+    {
+      "recipe": "supervised",
+      "fold": 4,
+      "seed": 44
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 0,
+      "seed": 44
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 1,
+      "seed": 44
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 2,
+      "seed": 44
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 3,
+      "seed": 44
+    },
+    {
+      "recipe": "pixel_kl",
+      "fold": 4,
+      "seed": 44
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 0,
+      "seed": 44
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 1,
+      "seed": 44
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 2,
+      "seed": 44
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 3,
+      "seed": 44
+    },
+    {
+      "recipe": "pixel_kl_feature_cwd",
+      "fold": 4,
+      "seed": 44
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 0,
+      "seed": 44
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 1,
+      "seed": 44
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 2,
+      "seed": 44
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 3,
+      "seed": 44
+    },
+    {
+      "recipe": "tailor_joint",
+      "fold": 4,
+      "seed": 44
+    }
+  ],
+  "epochs": 60,
+  "batch": 2,
+  "effective_batch": 8,
+  "input": [
+    288,
+    512
+  ],
+  "initialization": "matched historical student, followed by 60 fine-tuning epochs",
+  "optimizer": "Adam",
+  "lr": 0.0001,
+  "min_lr": 1e-06,
+  "weight_decay": 0.0001,
+  "feature_weight": 0.1,
+  "feature_temperature": 2,
+  "tailoring": "binary adaptation: train-only per-batch PCA features and boundary target blending"
+}

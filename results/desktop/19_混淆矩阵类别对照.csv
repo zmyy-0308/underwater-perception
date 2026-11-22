@@ -1,0 +1,11 @@
+﻿task,class_id,class_label
+pipe,0,background
+pipe,1,pipe
+bio,0,BW
+bio,1,HD
+bio,2,PF
+bio,3,WR
+bio,4,RO
+bio,5,RI
+bio,6,FV
+bio,7,SR
